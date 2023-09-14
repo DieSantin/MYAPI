@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diego\\OneDrive\\Desktop\\sos\\MYAPI\\MYAPI.Models\\MYAPI.Models.csproj": {}
+    "C:\\Users\\tomma\\projects\\personal\\MYAPI\\MYAPI.Models\\MYAPI.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diego\\OneDrive\\Desktop\\sos\\MYAPI\\MYAPI.Models\\MYAPI.Models.csproj": {
+    "C:\\Users\\tomma\\projects\\personal\\MYAPI\\MYAPI.Models\\MYAPI.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diego\\OneDrive\\Desktop\\sos\\MYAPI\\MYAPI.Models\\MYAPI.Models.csproj",
+        "projectUniqueName": "C:\\Users\\tomma\\projects\\personal\\MYAPI\\MYAPI.Models\\MYAPI.Models.csproj",
         "projectName": "MYAPI.Models",
-        "projectPath": "C:\\Users\\diego\\OneDrive\\Desktop\\sos\\MYAPI\\MYAPI.Models\\MYAPI.Models.csproj",
-        "packagesPath": "C:\\Users\\diego\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diego\\OneDrive\\Desktop\\sos\\MYAPI\\MYAPI.Models\\obj\\",
+        "projectPath": "C:\\Users\\tomma\\projects\\personal\\MYAPI\\MYAPI.Models\\MYAPI.Models.csproj",
+        "packagesPath": "C:\\Users\\tomma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tomma\\projects\\personal\\MYAPI\\MYAPI.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\diego\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tomma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -79,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
